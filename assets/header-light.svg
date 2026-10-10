@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="210" viewBox="0 0 800 210">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="130" viewBox="0 0 480 130">
   <style>
     .fade { opacity: 0; animation: fade 1.2s ease-out forwards; }
     .d1 { animation-delay: 0.5s; }
     .d2 { animation-delay: 0.9s; }
     @keyframes fade { to { opacity: 1; } }
   </style>
-  <text class="fade" x="400" y="110" text-anchor="middle"
-        font-family="Georgia, 'Times New Roman', serif" font-size="68"
-        letter-spacing="3" fill="#1f2328">shormat</text>
-  <line class="fade d1" x1="370" y1="140" x2="430" y2="140" stroke="#656d76" stroke-width="1"/>
-  <text class="fade d2" x="400" y="172" text-anchor="middle"
+  <text class="fade" x="240" y="60" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-size="46"
+        letter-spacing="2" fill="#1f2328">shormat</text>
+  <line class="fade d1" x1="218" y1="82" x2="262" y2="82" stroke="#656d76" stroke-width="1"/>
+  <text class="fade d2" x="240" y="108" text-anchor="middle"
         font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
-        font-size="13" letter-spacing="5" fill="#656d76">DÉVELOPPEUR</text>
+        font-size="13" letter-spacing="4" fill="#656d76">DÉVELOPPEUR</text>
 </svg>
