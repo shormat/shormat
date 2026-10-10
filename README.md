@@ -1,16 +1,23 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shormat/shormat/main/assets/header-dark.svg">
+  <img src="https://raw.githubusercontent.com/shormat/shormat/main/assets/header-light.svg" width="100%" alt="shormat">
+</picture>
 
-<!--
-**shormat/shormat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://example.com">Site</a>&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:[my@example.com]">Email</a>
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+</p>
+
+<br>
+
+<p align="center">
+  <code>Python</code>&nbsp;
+  <code>C/C++</code>&nbsp;
+  <code>PostgreSQL</code>&nbsp;
+</p>
+
+<br>
