@@ -6,20 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://example.com">Site</a>&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:[my@example.com]">Email</a>
-</p>
-
-<br>
-
-<p align="center">
-</p>
-
-<br>
-
-<p align="center">
-  <code>Python</code>&nbsp;
-  <code>C/C++</code>&nbsp;
-  <code>PostgreSQL</code>&nbsp;
+  <a href="https://[ton-site.com]">Website</a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;<a href="mailto:[ton@email.com]">Email</a>
 </p>
 
 <br>

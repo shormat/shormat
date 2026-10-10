@@ -1,15 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="130" viewBox="0 0 480 130">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="100" viewBox="0 0 480 100">
   <style>
-    .fade { opacity: 0; animation: fade 1.2s ease-out forwards; }
-    .d1 { animation-delay: 0.5s; }
-    .d2 { animation-delay: 0.9s; }
-    @keyframes fade { to { opacity: 1; } }
+    .name { opacity: 0; animation: rise 1s ease-out 0.2s forwards; }
+    .line { stroke-dasharray: 22; stroke-dashoffset: 22; animation: draw 0.8s ease-out 1s forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
   </style>
-  <text class="fade" x="240" y="60" text-anchor="middle"
+  <text class="name" x="240" y="58" text-anchor="middle"
         font-family="Georgia, 'Times New Roman', serif" font-size="46"
         letter-spacing="2" fill="#1f2328">shormat</text>
-  <line class="fade d1" x1="218" y1="82" x2="262" y2="82" stroke="#656d76" stroke-width="1"/>
-  <text class="fade d2" x="240" y="108" text-anchor="middle"
-        font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
-        font-size="13" letter-spacing="4" fill="#656d76">DÉVELOPPEUR</text>
+  <line class="line" x1="240" y1="80" x2="218" y2="80" stroke="#656d76" stroke-width="1"/>
+  <line class="line" x1="240" y1="80" x2="262" y2="80" stroke="#656d76" stroke-width="1"/>
 </svg>
